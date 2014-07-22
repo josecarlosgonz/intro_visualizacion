@@ -36,8 +36,9 @@
 * Archivos readme, [.gitignore](https://gist.github.com/josecarlosgonz/62808cb5361b83107c2f)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Publicación de Código y Datos
+* [Branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository)
 * [Diferencia entre repositorios personales, públicos y organizaciones](https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts)
-* [Wikis](https://github.com/blog/774-git-powered-wikis-improved), [issues](https://github.com/blog/831-issues-2-0-the-next-generation), [páginas](https://pages.github.com/)
+* [Wikis](https://github.com/blog/774-git-powered-wikis-improved), [issues](https://github.com/blog/831-issues-2-0-the-next-generation) y [páginas](https://pages.github.com/)
 
 ### 5. Publicar análisis en wordpress
 * [Diferencia entre wordpress.com y wordpress.org](http://en.support.wordpress.com/com-vs-org/)
