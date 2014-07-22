@@ -17,7 +17,7 @@
 3. [Fork & Clone](https://help.github.com/articles/fork-a-repo) [este repositorio](https://github.com/josecarlosgonz/intro_visualizacion/blob/master/README.md) en el escritorio de su máquina o la ubicación deseada
 4. Instalar [R](http://cran.itam.mx/)
 5. Instalar [RStudio desktop](http://www.rstudio.com/products/rstudio/#Desk)
-* Opcional: crear un blog en www.wordpress.com
+* Opcional: crear un blog gratuito en [Wordpress](www.wordpress.com)
 
 ### 2. Lectura previa:
 * [Wordpress](https://wordpress.com/)
