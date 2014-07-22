@@ -39,14 +39,14 @@
 * [Diferencia entre repositorios personales, públicos y organizaciones](https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts)
 * [Wikis](https://github.com/blog/774-git-powered-wikis-improved), [issues](https://github.com/blog/831-issues-2-0-the-next-generation), [páginas](https://pages.github.com/)
 
-### 4. Publicar análisis en wordpress
+### 5. Publicar análisis en wordpress
 * [Diferencia entre wordpress.com y wordpress.org](http://en.support.wordpress.com/com-vs-org/)
 * Drafts
 * Gráficas
 * Iframes
 * Programar publicaciónes
 
-### 5. Recursos adicionales:
+### 6. Recursos adicionales:
 * [Data science](https://github.com/josecarlosgonz/go)
 * [R tutorial](http://www.statmethods.net/index.html)
 * [R cookbook](http://www.cookbook-r.com/) 
