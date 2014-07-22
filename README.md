@@ -19,7 +19,9 @@
 5. Instalar [RStudio desktop](http://www.rstudio.com/products/rstudio/#Desk)
 
 ### 2. Lectura previa:
-* [Introducción a Wordpress] (http://learn.wordpress.com/quick-start-guide/)
+* Wordpress
+  1. [Introducción](http://learn.wordpress.com/quick-start-guide/)
+  2. [Configuración y hosting](https://zapier.com/blog/wordpress-blog-tips-tools-resources/)
 * [GitHub](https://github.com)
   1. [Introducción a los conceptos](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
   2. [Video con ejemplos de uso](https://www.youtube.com/watch?v=0fKg7e37bQE)
