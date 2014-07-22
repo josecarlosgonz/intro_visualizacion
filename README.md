@@ -34,6 +34,7 @@
 * Markdown
 * Publicación de Código y Datos
 * Diferencia entre repositorios personales, públicos y organizaciones
+* Wikis, issues, páginas
 
 ### 4. Publicar análisis en wordpress
 * Diferencia entre wordpress.com y wordpress.org
