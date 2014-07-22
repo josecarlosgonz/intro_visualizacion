@@ -13,7 +13,7 @@
 ### 1. Instrucciones
 1. Revisar los tutoriales sobre el uso de wordpress y GitHub en la sección de lectura previa
 2. Abrir una cuenta en [GitHub](www.github.com)
-3. Instalar GitHub para [Mac](https://mac.github.com/) o [Windows](https://windows.github.com/)
+3. Instalar [GitHub](https://github.com/features) para [Mac](https://mac.github.com/) o [Windows](https://windows.github.com/)
 3. [Fork & Clone](https://help.github.com/articles/fork-a-repo) este repositorio en el escritorio de su máquina o la ubicación deseada
 4. Instalar [R](http://cran.itam.mx/)
 5. Instalar [RStudio desktop](http://www.rstudio.com/products/rstudio/#Desk)
@@ -27,20 +27,20 @@
   2. [Video con ejemplos de uso](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 ### 3. R y RStudio
-* Scripts
-* Paquetes
-* Asignación
-* Gráficas
+* [Scripts](http://cran.r-project.org/doc/contrib/Lemon-kickstart/kr_scrpt.html)
+* [Paquetes](http://cran.r-project.org/web/packages/)
+* [Asignación](http://stackoverflow.com/questions/1741820/assignment-operators-in-r-and)
+* [Gráficas](http://www.cookbook-r.com/Graphs/)
 
 ### 4. Publicación en GitHub utilizando la aplicación de escritorio
-* Archivos readme, .gitignore
-* Markdown
+* Archivos readme, [.gitignore](https://gist.github.com/josecarlosgonz/62808cb5361b83107c2f)
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Publicación de Código y Datos
-* Diferencia entre repositorios personales, públicos y organizaciones
-* Wikis, issues, páginas
+* [Diferencia entre repositorios personales, públicos y organizaciones](https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts)
+* [Wikis](https://github.com/blog/774-git-powered-wikis-improved), [issues](https://github.com/blog/831-issues-2-0-the-next-generation), [páginas](https://pages.github.com/)
 
 ### 4. Publicar análisis en wordpress
-* Diferencia entre wordpress.com y wordpress.org
+* [Diferencia entre wordpress.com y wordpress.org](http://en.support.wordpress.com/com-vs-org/)
 * Drafts
 * Gráficas
 * Iframes
