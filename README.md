@@ -14,7 +14,7 @@
 1. Revisar los tutoriales sobre el uso de wordpress y GitHub en la sección de lectura previa
 2. Abrir una cuenta en [GitHub](www.github.com)
 3. Instalar [GitHub](https://github.com/features) para [Mac](https://mac.github.com/) o [Windows](https://windows.github.com/)
-3. [Fork & Clone](https://help.github.com/articles/fork-a-repo) [este](https://github.com/josecarlosgonz/intro_visualizacion/blob/master/README.md) repositorio en el escritorio de su máquina o la ubicación deseada
+3. [Fork & Clone](https://help.github.com/articles/fork-a-repo) [este repositorio](https://github.com/josecarlosgonz/intro_visualizacion/blob/master/README.md) en el escritorio de su máquina o la ubicación deseada
 4. Instalar [R](http://cran.itam.mx/)
 5. Instalar [RStudio desktop](http://www.rstudio.com/products/rstudio/#Desk)
 
