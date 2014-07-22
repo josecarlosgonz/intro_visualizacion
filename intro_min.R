@@ -3,14 +3,14 @@
 
 # Asignación: <-
 
-# Objetos en R
+# El símbolo "" crea un objeto en R. Se recomienda usarloe en vez de "=" ya que tienen sigfificados distintos
 x  <- 2
 x
 x + 2
 
 # Directorio de trabajo
 getwd() # Actual
-setwd() # Cambiar
+setwd() # Cambiar directorio
 
 # Cargar un archivo csv
 data  <- read.csv("data/envipe2011-2013.csv", encoding="utf8")
