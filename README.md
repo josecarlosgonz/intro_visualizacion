@@ -24,9 +24,9 @@
   2. [Video con ejemplos de uso](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 ### 3. R y RStudio
-* Asignación
 * Scripts
-* Packages
+* Paquetes
+* Asignación
 * Gráficas
 
 ### 4. Publicación en GitHub utilizando la aplicación de escritorio
