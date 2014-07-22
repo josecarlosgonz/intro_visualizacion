@@ -40,7 +40,7 @@
 * Drafts
 * Gráficas
 * Iframes
-* Programar publicación
+* Programar publicaciónes
 
 ### 5. Recursos adicionales:
 * [Data science](https://github.com/josecarlosgonz/go)
