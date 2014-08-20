@@ -56,7 +56,7 @@
 * Programar publicaciónes
 
 ### 7. Recursos adicionales:
-* [Data science](https://github.com/josecarlosgonz/go)
+* [Open-source Data science masters curriculum](https://github.com/josecarlosgonz/go)
 * [R tutorial](http://www.statmethods.net/index.html)
 * [R cookbook](http://www.cookbook-r.com/)
 * [Python server en Mac](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/)
