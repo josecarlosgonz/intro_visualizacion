@@ -61,4 +61,5 @@
 * [R cookbook](http://www.cookbook-r.com/)
 * [Python server en Mac](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/)
 * [Terminal en Mac](http://www.maclife.com/article/feature/25_terminal_tips_every_mac_user_should_know)
+* [Certificación en data science de Coursera](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=catalogSpec)
 
