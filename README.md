@@ -32,6 +32,10 @@
 * [Paquetes](http://cran.r-project.org/web/packages/)
 * [Asignación](http://stackoverflow.com/questions/1741820/assignment-operators-in-r-and)
 * [Gráficas](http://www.cookbook-r.com/Graphs/)
+* [rMaps](http://bl.ocks.org/ramnathv/8936426)
+* [Choropleths en rMaps](http://rmaps.github.io/blog/posts/animated-choropleths/index.html)
+* [Modificar leyendas en rMaps](http://bl.ocks.org/ramnathv/8936426)
+* [Scripts para crear mapas interactivos a nivel estatal](mapas_incidencia.R)
 
 ### 4. Publicación en GitHub utilizando la aplicación de escritorio
 * Archivos readme, [.gitignore](https://gist.github.com/josecarlosgonz/62808cb5361b83107c2f)
